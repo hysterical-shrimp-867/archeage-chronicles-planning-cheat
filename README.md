@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 ArcheAge Chronicles Planning Workspace · Program documentation and download information.
-                                                                                                    
